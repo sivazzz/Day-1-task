@@ -1,0 +1,4 @@
+Question. Write a blog ?
+Answer ; This is a blog
+
+console.log('hello')
