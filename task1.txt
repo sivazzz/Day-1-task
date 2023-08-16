@@ -1,4 +1,7 @@
 Question. Write a blog ?
 Answer ; This is a blog
 
+Question. Write a Question ?
+Answer ; This is a Question
+
 console.log('hello')
